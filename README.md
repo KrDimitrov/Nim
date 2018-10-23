@@ -1,5 +1,5 @@
-#Welcome to Nim#
-##A game of matches!##
+# Welcome to Nim #
+## A game of matches! ##
 
 The **rules** are Simple:
   * The game starts with 15 matches in a pile.
